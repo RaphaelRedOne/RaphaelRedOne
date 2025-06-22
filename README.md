@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hello, I'm Raphaël
 
-<!--
-**RaphaelRedOne/RaphaelRedOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Red Teamer | Civil/Structural Engineer in Training | 🇺🇸 USA-bound
 
-Here are some ideas to get you started:
+I'm building a rare dual profile : engineer in military-grade infrastructure (USACE path) and offensive cybersecurity specialist. My mission is clear — design, defend, and dominate across both physical and digital domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Current Focus
+
+-  Training in offensive security via **TryHackMe**, aiming for:
+- CompTIA Security+
+- CEH v12
+- CompTIA Pentest+
+- OSCP (OffSec)
+- CRTO
+- Completing a **Bachelor’s in Civil Engineering** (specialization in Structural Engineering)
+- Learning **Python** for automation and scripting
+- Preparing for my future role at **USACE** (U.S. Army Corps of Engineers)
+
+---
+
+### Tech & Tools
+
+- **Cybersecurity**: TryHackMe, Wireshark, Burp Suite, Metasploit, Nmap, Kali Linux  
+- **Languages**: Python (learning), Bash  
+- **Dev Tools**: Git, GitHub, VS Code  
+- **Infra Tools**: AutoCAD, Revit, Robot Structural Analysis
+
+---
+
+### Vision
+
+> I don’t just want to work on missions — I want to **build** them.  
+> My long-term goal: Launch my own firm specializing in sensitive military infrastructure & Red Team services.
+
+---
+
+### 🔍 Let’s Connect
+
+- 📧 Email: raphaelrc.cybersec@proton.me  
+- 🧠 TryHackMe: Raphaelrc.cybersec  
+- 🔗 LinkedIn: Raphaël ROBLOT-COULANGES  
+- 💣 GitHub Repos coming soon — stay tuned for tools, writeups & scripts.
+
+---
+
+**“Fortune favors the prepared mind.” – Louis Pasteur**
