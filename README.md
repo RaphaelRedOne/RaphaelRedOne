@@ -40,7 +40,7 @@ I'm building a rare dual profile : engineer in military-grade infrastructure (US
 
 - 📧 Email: raphaelrc.cybersec@proton.me  
 - 🧠 TryHackMe: Raphaelrc.cybersec  
-- 🔗 LinkedIn: Raphaël ROBLOT-COULANGES  
+- 🔗 LinkedIn: Raph 
 - 💣 GitHub Repos coming soon — stay tuned for tools, writeups & scripts.
 
 ---
