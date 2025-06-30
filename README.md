@@ -39,9 +39,9 @@ I'm building a rare dual profile : engineer in military-grade infrastructure (US
 ### 🔍 Let’s Connect
 
 - 📧 Email: raphaelrc.cybersec@proton.me  
-- 🧠 TryHackMe: Raphaelrc.cybersec  
+- 🧠 TryHackMe: RaphaelRedOne  
 - 🔗 LinkedIn: Raph 
-- 💣 GitHub Repos coming soon — stay tuned for tools, writeups & scripts.
+- 💣 GitHub: RaphaelRedOne
 
 ---
 
