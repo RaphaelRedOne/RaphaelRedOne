@@ -11,9 +11,6 @@ I'm building a rare dual profile : engineer in military-grade infrastructure (US
 -  Training in offensive security via **TryHackMe**, aiming for:
 - eJPT (Junior Penetration Tester)
 - PNPT (Practical Network Penetration Tester)
-- CompTIA Security+
-- CEH v12
-- CompTIA Pentest+
 - OSCP (OffSec)
 - OSEP (Offensive Security Experienced Pentester)
 - CRTO (Certified Red Team Operator)
